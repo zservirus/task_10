@@ -1,4 +1,4 @@
-###
+### Решение через Colab
 # import random
 # import pandas as pd
 #
@@ -27,7 +27,7 @@
 #     print(f"{str(n)}\t  {data[n]}")
 #     n += 1
 
-### Через Числа
+### Через разные списки
 import random
 lst = ['robot'] * 10
 lst += ['human'] * 10
